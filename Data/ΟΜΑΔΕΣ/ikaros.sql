@@ -1,0 +1,1 @@
+insert into teams (team_id, name, stadium, history, home_wins, away_wins, home_losses, away_losses, home_draws, away_draws) values (9, 'IKAROS', 'NEOKTISTA STADIUM', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.', 5, 3, 2, 2, 1, 3);

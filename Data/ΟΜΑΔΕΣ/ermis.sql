@@ -1,0 +1,1 @@
+insert into teams (team_id, name, stadium, history, home_wins, away_wins, home_losses, away_losses, home_draws, away_draws) values (6, 'ERMIS', 'ERMIS STADIUM', 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.', 3, 1, 1, 3, 4, 4);

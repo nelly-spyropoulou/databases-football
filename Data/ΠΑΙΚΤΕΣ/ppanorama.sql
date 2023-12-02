@@ -1,0 +1,11 @@
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (12, 'Nikolas', 'Aggelis', 2, 'Goalkeeper', 3, 1, 0, 146);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (13, 'Antonis', 'Kefalas', 2, 'Right Back', 2, 0, 2, 1410);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (14, 'Marios', 'Papakonstantinou', 2, 'Left Back', 4, 1, 1, 439);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (15, 'Kostas', 'Tsoukalas', 2, 'Center Back', 3, 1, 2, 1402);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (16, 'Georgios', 'Zachariou', 2, 'Defensive Midfielder', 3, 1, 4, 657);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (17, 'Kostas', 'Tsoukalas', 2, 'Offensive Midfielder', 5, 1, 4, 707);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (18, 'Petros', 'Kalantzis', 2, 'Left Winger', 4, 1, 3, 1039);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (19, 'Antonis', 'Sotiropoulos', 2, 'Right Winger', 1, 0, 6, 202);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (20, 'Petros', 'Aggelis', 2, 'Center Forward Striker', 0, 0, 10, 687);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (21, 'Athanasios', 'Vassiliou', 2, 'Center Back', 0, 2, 1, 1011);
+insert into players (player_id, first_name, last_name, team_id, position, yellow_cards, red_cards, goals_scored, minutes_played) values (22, 'Alexandros', 'Aggelopoulos', 2, 'Defensive Midfielder', 0, 0, 5, 377);
